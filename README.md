@@ -1,2 +1,2 @@
 # RubyOnRailsPrograms
-Ruby programs to learn
+Ruby on rails programs to learn
